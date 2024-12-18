@@ -29,22 +29,9 @@
 		1BEAF7112D110D1B003063B1 /* MyWeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyWeatherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		1BEAF7252D110D65003063B1 /* Exceptions for "MyWeather" folder in "MyWeather" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Untitled.swift,
-			);
-			target = 1BEAF6F62D110D07003063B1 /* MyWeather */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		1BEAF6F92D110D07003063B1 /* MyWeather */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				1BEAF7252D110D65003063B1 /* Exceptions for "MyWeather" folder in "MyWeather" target */,
-			);
 			path = MyWeather;
 			sourceTree = "<group>";
 		};
