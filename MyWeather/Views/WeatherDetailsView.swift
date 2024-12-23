@@ -38,7 +38,7 @@ struct WeatherDetailsView: View {
                 Text("Feels Like")
                     .font(.caption)
                     .foregroundColor(.gray)
-                Text("\(feelsLike)°F")
+                Text("\(feelsLike)°")
                     .font(.title3)
                     .bold()
             }

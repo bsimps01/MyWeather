@@ -28,3 +28,11 @@ struct WeatherResponse: Codable {
         }
     }
 }
+
+struct CitySuggestionsResponse: Codable {
+    let id: Int?
+    let name: String
+    let region: String
+    let country: String
+    let temp_f: Double?
+}
